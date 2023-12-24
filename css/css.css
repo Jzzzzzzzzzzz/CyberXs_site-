@@ -396,6 +396,7 @@ html{
     margin: 0 auto;
 
 
+
 }
 
 
@@ -406,15 +407,20 @@ html{
 
 }
 .header_wrapper {
+     position:relative;
     display:flex;
     flex-wrap:wrap;
     aline-items:flex-end;
     justify-content:space-between;
     padding-top:78px;
+    z-index:10;
 
 
 }
+.header_logo-link{
 
+    z-index:10;
+}
 
 
 .header_list{
@@ -471,7 +477,19 @@ html{
 
 }
 
+.img-con{
+    position:relative;
+    top:-121px;
+    left:-50px;
+    width:1730px;
 
+
+}
+.img_atr{
+    right:300px;
+
+
+}
 
 
 
