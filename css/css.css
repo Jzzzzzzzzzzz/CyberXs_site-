@@ -17,7 +17,6 @@ html{
     padding:20px;
 
 }
-
 .wrapper {
     width:1700px;
     margin: 0 auto;
@@ -26,11 +25,8 @@ html{
 
 }
 
-
 .header{
     width:100%;
-
-
 
 }
 .header_wrapper {
@@ -51,8 +47,6 @@ html{
 
     z-index:10;
 }
-
-
 .header_list{
     margin-top:28px;
     margin-left:100px;
@@ -66,7 +60,6 @@ html{
 .header_item:last-child{
     margin-right:0;
 }
-
 .header_link{
     font-size: 36px;
     font-style: normal;
@@ -74,27 +67,22 @@ html{
     line-height: normal;
     color: #FFF;
     text-decoration:none;
-
-
-
 }
-
 .header_link:hover,.header_link:focus,.header_link:active{
     opacity:.75;
 
 }
+.header_logo:hover,.header_logo:focus,.header_logo:active{
+    opacity:.93;
 
+}
 .header-nav{
     margin-left:1053;
     width: 725px;
     height: 100px;
     border-radius: 70px;
     background: #242424;
-
-
-
 }
-
 .intro {
     height:1080px;
     background: #111 no-repeat center;
@@ -104,21 +92,16 @@ html{
 .container{
     background: #111;
     border-radius: 0px 0px 70px 70px;
-
 }
-
 .img-con{
     position:relative;
     top:-100px;
     left:-50px;
     width:1730px;
-
-
 }
 .img_atr{
     right:300px;
 }
-
 .content{
    position:relative;
     flex-shrink: 0;
@@ -129,10 +112,41 @@ html{
     left:980px;
     top:-13px;
     top:-980px;
-    color:rgb(234,181,209,1);
-
-
-.content-h2{
+    color:rgb(234,181,209,1);}
+.content-p{
     position:relative;
-    left:1000px;
+    width: 725px;
+    height: 100px;
+    color: #FFF;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    top:-13px;
+    top:-860px;
+    left:980px;
+    right:-50px;
+}
+.img-Rectangle{
+    position:relative;
+    width: 480px;
+    height: 107px;
+    left:1047px;
+    top:-810px;
+
+}
+.img-Rectangle:hover,.img-Rectangle:focus,.img-Rectangle:active{
+    opacity:.94;
+}
+.content-big{
+    position:relative;
+    width: 1936px;
+    height: 243px;
+    color: #FEF;
+    font-size: 190px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    top:-750px;
+    left:-54px;
 }
