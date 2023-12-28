@@ -11,7 +11,7 @@ body::-webkit-scrollbar-track {
 }
 body::-webkit-scrollbar-thumb {
   background-color: black; /* Цвет бегунка */
-  border-radius: 1000px;
+  border-radius: 70px;
 }
 html{
 
@@ -57,6 +57,11 @@ html{
 }
 .header_item{
     margin-right:102px;
+}
+
+.header_item1{
+    margin-left:531px;
+    margin-top:-60px;
 }
 .header_item:last-child{
     margin-right:0;
@@ -195,7 +200,7 @@ html{
     color: rgb(0, 0, 0, 0.60);
     font-size: 20px;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 600;
     line-height: normal;
     display: flex;
     justify-content: space-between;
@@ -203,16 +208,15 @@ html{
     margin-left:220px;
     margin-top:-91px;
 }
-
 .par-cont{
     margin-left:21px;
 }
 .par-cont-0{
-    margin-left:-360px;
+    margin-left:-370px;
 }
 .par-cont-1{
     position:relative;
-    right:211px;
+    right:199px;
 }
 
 
