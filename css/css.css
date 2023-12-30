@@ -455,3 +455,36 @@ html{
     margin-left:600px;
 
 }
+.page4{
+    margin-top:-100px;
+    height: 1335px;
+    background: #111;
+}
+.why-box-class{
+    padding-top:45px;
+    margin-left:660px;
+
+}
+.why-class-style{
+    color: #FFF;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.vectors{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:-120px;
+    margin-left:-354px;
+}
+.vector1{
+    position:relative;
+    left:-235px;
+
+}
+.vector2{
+    position:relative;
+    left:-74px;
+}
