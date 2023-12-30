@@ -305,7 +305,7 @@ html{
     margin-left:45px;
 }
 
-.bestnewpage{
+.page{
     height: 1080px;
     background: #111 no-repeat center ;
     background-size:cover;
@@ -395,4 +395,63 @@ html{
     border-radius: 70px;
     border: 3px solid #FFF;
     background: #111;
+}
+.img-element1{
+    padding-left:405px;
+    padding-top:45px;
+}
+.page3{
+    height:2496px;
+}
+.stages_of_creation{
+    margin-top:175px;
+    margin-left:-54px;
+}
+.style_stages_of_creation{
+    color: #000;
+    font-size: 96px;
+    font-style: normal;
+    /*500*/
+    font-weight:500;
+    line-height: normal;
+
+}
+.star1{
+    /*ul li*/
+    margin-top:173px;
+}
+.star3{
+     margin-top:292px;
+}
+.star2{
+     margin-top:292px;
+    margin-left:613px;
+}
+.star4{
+    margin-top:295px;
+    margin-left:613px;
+}
+.border-stages_of_creation{
+    margin-top:-2070px;
+    margin-left:960px;
+    justify-content: space-between;
+}
+.bor{
+    margin-top:113px;
+    width: 811px;
+    height: 270px;
+    border-radius: 70px;
+    border: 6px solid #000;
+}
+.num{
+    padding-top:54px;
+    padding-left:600px;
+}
+.gradint-bor{
+    margin-top:113px;
+}
+.num-grad{
+    margin-top:-300px;
+    margin-left:600px;
+
 }
