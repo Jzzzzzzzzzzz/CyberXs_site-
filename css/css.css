@@ -247,13 +247,7 @@ html{
 }
 .border0{
    flex-shrink: 0;
-   margin-top:145px;
-    width: 572px;
-    height: 735px;
-    flex-shrink: 0;
-    border-radius: 70px;
-    border: 10px solid #000;
-
+    margin-top:154px;
 }
 .border1{
     margin-top:145px;
@@ -358,6 +352,162 @@ html{
     border: 3px solid #FFF;
     background: #111;
 }
+/*p-element1-1  not*/
+.element1-1{
+    color: #FFF;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-top:30px;
+    margin-left:27px;
+}
+.element1-2{
+    color: rgb(255, 255, 255, 1);
+    font-size:20px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+    margin-top:17px;
+    margin-left:27px;
+    opacity:.86;
+}
+.img-element1-class{
+    position:relative;
+    padding-left:427px;
+    top:-160px;
+}
+.element2-1{
+    color: #FFF;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left:37px;
+    margin-top:27px;
+}
+.element2-2{
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+    margin-left:37px;
+    margin-top:19px;
+    opacity:.86;
+}
+.img-element2-class{
+    position:relative;
+    margin-left:370px;
+    top:-160px;
+}
+.element3-1{
+    color: #FFF;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left:37px;
+    margin-top:27px;
+}
+.element3-2{
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+    opacity:.86;
+    margin-top:17px;
+    margin-left:37px;
+}
+.img-element3-class{
+    position:relative;
+    margin-left:294px;
+    top:-136px;
+}
+.element4-1{
+    color: #FFF;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left:37px;
+    margin-top:27px;
+}
+.p-element4-2{
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+    opacity:.86;
+    margin-top:17px;
+    margin-left:37px;
+}
+.img-element4-class{
+    position:relative;
+    margin-left:405px;
+    top:-136px;
+}
+.element5-1{
+    color: #FFF;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left:37px;
+    margin-top:27px;
+}
+.p-element5-2{
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+    opacity:.86;
+    margin-top:17px;
+    margin-left:37px;
+}
+.img-element5-class{
+    position:relative;
+    margin-left:450px;
+    top:-160px;
+}
+.element6-1{
+    color: #FFF;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left:37px;
+    margin-top:27px;
+}
+.p-element6-2{
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+    opacity:.86;
+    margin-top:17px;
+    margin-left:37px;
+}
+.img-element6-class{
+    position:relative;
+    margin-left:384px;
+    top:-160px;
+}
+
+
+
+
+
+
+
+
+
+
+
 .elements-class-continue{
     position:relative;
     display:flex;
@@ -396,10 +546,7 @@ html{
     border: 3px solid #FFF;
     background: #111;
 }
-.img-element1{
-    padding-left:405px;
-    padding-top:45px;
-}
+
 .page3{
     height:2496px;
 }
@@ -461,9 +608,7 @@ html{
     background: #111;
 }
 .why-box-class{
-    padding-top:45px;
-    margin-left:660px;
-
+    padding-top:64px;
 }
 .why-class-style{
     color: #FFF;
@@ -471,20 +616,163 @@ html{
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+
 }
 .vectors{
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-top:-120px;
-    margin-left:-354px;
 }
 .vector1{
     position:relative;
-    left:-235px;
-
+    left:72px;
 }
 .vector2{
     position:relative;
     left:-74px;
+}
+.vec{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:64px;
+    margin-left:650px;
+}
+.vector3{
+    position:relative;
+    left:-281px;
+}
+.vector4{
+    position:relative;
+    left:-375px;
+}
+.bord{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left:54px;
+    margin-top:150px;
+}
+.bor1{
+    width: 572px;
+    height: 735px;
+    flex-shrink: 0;
+    border-radius: 70px;
+    border: 10px solid #FFF;
+    margin-left:-110px;
+}
+.bor2{
+    height:727px;
+    margin-left:54px;
+}
+.bor3{
+    margin-left:54px;
+    width: 572px;
+    height: 735px;
+    flex-shrink: 0;
+    border-radius: 70px;
+    border: 10px solid #FFF;
+}
+.done{
+    padding-top:45px;
+    padding-left:37px;
+}
+.do{
+    color: #FFF;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.dev{
+    padding-top:54px;
+    padding-left:67px;
+}
+.p-dev-style{
+    color: #FFF;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.relevance{
+    position:relative;
+    top:-680px;
+    left:18px;
+    color: #FFF;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+/*.rel{
+    color: #FFF;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}*/
+.aud{
+   position:relative;
+   top:-570px;
+}
+.p-aud-style{
+    color: #FFF;
+    text-align: center;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.vector-style{
+    margin-left:57px;
+    margin-top:18px;
+}
+.hypothesis{
+    padding-top:45px;
+    padding-left:37px;
+}
+.hypostyle{
+    color: #FFF;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.dat{
+  padding-top:54px;
+  padding-left:67px;
+}
+.data-style{
+    color: #FFF;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.sty{
+    margin-top:-45px;
+    padding-left:414px;
+}
+.logo-cyberx-grad{
+    margin-top:237px;
+    margin-left:-54px;
+}
+.logo-cyberx-grad-link:hover,.logo-cyberx-grad-link:focus,.logo-cyberx-grad-link:active{
+    opacity:.93;
+}
+.Privacy-Policy{
+    margin-left:1470px;
+    margin-top:-14px;
+}
+.privacy-link{
+    white-space:nowrap;
+    text-decoration:none;
+    color: #FFF;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
 }
