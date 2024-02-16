@@ -1,4 +1,3 @@
-
 body {
     overflow-x:hidden;
     font-family: 'Unbounded', sans-serif;
@@ -13,6 +12,7 @@ body::-webkit-scrollbar-thumb {
   background-color: black; /* Цвет бегунка */
   border-radius: 70px;
 }
+
 html{
 
     box-sizing:border-box;
@@ -32,6 +32,7 @@ html{
     margin: 0 auto;
 }
 .header{
+    background: #111;
     width:100%;
 }
 .header_wrapper {
@@ -95,9 +96,10 @@ html{
     border-radius: 0px 0px 70px 70px;
 }
 .container{
-    height:1080px;
-    background: #111;
-    border-radius: 0px 0px 70px 70px;
+    /*width: 100%;*/
+    /* */
+   /* background: #111;*/
+
 }
 .img-con{
     position:relative;
@@ -497,17 +499,6 @@ html{
     margin-left:384px;
     top:-160px;
 }
-
-
-
-
-
-
-
-
-
-
-
 .elements-class-continue{
     position:relative;
     display:flex;
@@ -589,6 +580,35 @@ html{
     height: 270px;
     border-radius: 70px;
     border: 6px solid #000;
+}
+.bor-{
+    box-sizing: border-box;
+    width: 811px;
+    height: 270px;
+}
+.bor-stages_of_creation{
+    position:relative;
+    top:-181px;
+    left:27px;
+
+}
+.bor-stages_of_creation-{
+    margin-top:-270px;
+    margin-left:54px;
+}
+.bor-p{
+    color: #000;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.borp{
+    color: #FFF;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
 }
 .num{
     padding-top:54px;
@@ -776,3 +796,14 @@ html{
     font-weight: 500;
     line-height: normal;
 }
+
+
+
+
+
+
+
+
+
+
+
