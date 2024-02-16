@@ -6,13 +6,9 @@
     .wrapper{
         width:100%;
     }
-
-
-    
 }
 
 @media screen and  (min-width: 998px) and (max-width: 1199px) {
-  
 }
 @media screen and (max-width: 768px) {
     .content-big{
@@ -34,7 +30,6 @@
     .page4{
         display: none;
     }
-
 } 
 @media screen and (max-width:480px){
     .content-big{
@@ -47,7 +42,6 @@
         position: relative;
         right: 180px;
     }
-
 }
 
 
